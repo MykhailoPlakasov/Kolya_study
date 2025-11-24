@@ -1,2 +1,2 @@
 # Kolya_study
-Study
+Study 1
